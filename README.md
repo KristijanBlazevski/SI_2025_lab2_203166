@@ -102,3 +102,5 @@ checkCart(items, null);
 13 – проверка cardNumber != null (false)
 
 20 – фрла exception
+
+Минимално треба да има 6 тест случаи
